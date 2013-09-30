@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zazt:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="zazt.war">
+      <element id="artifact" artifact-name="zazt:war exploded" />
+    </root>
+  </artifact>
+</component>
