@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f569e4eb-7268-42ae-98bb-64520dc970cc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ZAZT.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -118,19 +118,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AccountService.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="AccountService.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/at117/zazt/service/account/AccountService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="13" selection-start="1469" selection-end="1469" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="5" selection-start="17" selection-end="17" vertical-scroll-proportion="0.07116105">
+            <state line="50" column="13" selection-start="1469" selection-end="1469" vertical-scroll-proportion="0.35580525">
               <folding />
             </state>
           </provider>
@@ -744,16 +735,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/at117/zazt/service/account/AccountService.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="13" selection-start="1469" selection-end="1469" vertical-scroll-proportion="0.0">
+        <state line="2" column="19" selection-start="17" selection-end="17" vertical-scroll-proportion="0.07116105">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/at117/zazt/service/account/AccountService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="5" selection-start="17" selection-end="17" vertical-scroll-proportion="0.07116105">
+        <state line="50" column="13" selection-start="1469" selection-end="1469" vertical-scroll-proportion="0.35580525">
           <folding />
         </state>
       </provider>
